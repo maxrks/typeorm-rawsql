@@ -23,7 +23,7 @@
     "typeorm-rawsql",
     "rawsql"
   ],
-  "author": "Hebert Cisco",
+  "author": "maxrks",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/maxrks/typeorm-rawsql/issues"
