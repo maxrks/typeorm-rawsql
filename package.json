@@ -1,6 +1,6 @@
 {
   "name": "typeorm-rawsql",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "typeorm rawsql",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
