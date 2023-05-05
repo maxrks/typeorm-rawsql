@@ -1,4 +1,3 @@
-export { Uuid } from './helpers/uuid';
-import uuid from './helpers/uuid';
+import { RawSQL } from './helpers/typeorm-rawsql';
 
-export default uuid;
+export default RawSQL;
